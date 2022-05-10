@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Internet addresses mentioned in the paper:
 
--	ftp.mips.embnet.org -> The webiste is online, but without         significant content 	except for ads
+-	ftp.mips.embnet.org -> The webiste is online, but without significant content except for ads
 -	ftp.ebi.ac.uk -> Website is online and actively used (not the yeast part of it) but for me nothing wants to load on the page
 -	genome-ftp.standford.edu -> Webiste ist offline
 -	mips.biochem.mpg.de/yeast -> Webiste ist offline
@@ -24,7 +24,7 @@ Internet addresses mentioned in the paper:
 
 ## Life with 6000 Genes -- Databases
 
--	genome.stanford.edu/Saccharomycotina -> standford.edu website is  online, but 	genome.Stanford.edu is offline
+-	genome.stanford.edu/Saccharomycotina -> standford.edu website is  online, but genome.Stanford.edu is offline
 -	expasy.hcuge.ch -> offline, but expasy still online
 -	proteome.com -> offline
 -	Ncbi.nlm.nih.gov -> online and actively used
