@@ -1,0 +1,84 @@
+---
+title: "PBL - Week 3"
+author: "Andreas Weitz"
+date: '2022-05-10'
+output:
+  powerpoint_presentation: default
+  ioslides_presentation: default
+  beamer_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Life with 6000 Genes -- Databases
+
+Internet addresses mentioned in the paper:
+
+-	ftp.mips.embnet.org -> The webiste is online, but without         significant content 	except for ads
+-	ftp.ebi.ac.uk -> Website is online and actively used (not the yeast part of it) but for me nothing wants to load on the page
+-	genome-ftp.standford.edu -> Webiste ist offline
+-	mips.biochem.mpg.de/yeast -> Webiste ist offline
+-	sanger.ac.uk/yeast -> website online, but only data about yeast is under: sanger.ac.uk/data/yeast-data/
+
+## Life with 6000 Genes -- Databases
+
+-	genome.stanford.edu/Saccharomycotina -> standford.edu website is  online, but 	genome.Stanford.edu is offline
+-	expasy.hcuge.ch -> offline, but expasy still online
+-	proteome.com -> offline
+-	Ncbi.nlm.nih.gov -> online and actively used
+
+
+## Databases for Genes, Proteins and Genomes
+
+- ncbi.nlm.nih.gov (Library of Medicine --- National Center for Biotechnology Information)
+- ensembl.org
+- ftp.ebi.ac.uk
+
+## ensembl.org
+
+```{r graphica, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs1.png")
+```
+## ensembl.org
+
+```{r graphicb, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs2.png")
+```
+
+## ensembl.org
+
+```{r graphicc, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs3.png")
+```
+
+## ensembl.org
+
+```{r graphicd, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs4.png")
+```
+
+## ensembl.org
+
+```{r graphice, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs5.png")
+```
+
+## ensembl.org
+
+```{r graphicf, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs6.png")
+```
+
+## ensembl.org
+
+```{r graphicg, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs7.png")
+```
+
+## ensembl.org
+
+```{r graphich, echo=FALSE, fig.cap="", out.width = '100%'}
+knitr::include_graphics("scs8.png")
+```
